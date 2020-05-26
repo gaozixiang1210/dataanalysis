@@ -13,8 +13,10 @@ array=[1100,1225,1359,1600,1750,1482,1700,\
         1175,1341,1387,1321,1553,1336,1548]
 
 print(min(array))
+#for min value function
  
 print(max(array))
+#for max value function
 
     
-    
+
